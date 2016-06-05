@@ -25,3 +25,7 @@ I replaced the stock screws that hold the metal plate to the PCB heater with lon
 
 Both the lever and the below the bed guides are necessary for this clip to work for any length of time, but with both of them, this has been installed on my printer for over a year and still works great.
 
+# Notes
+
+backboard.stl comes is this [thing](https://www.thingiverse.com/thing:537587) on thingiverse and is unmodified by me. The rest of the clip comes from another [thing](https://www.thingiverse.com/thing:645203) on thingiverse, but is very heavily modified. 
+
